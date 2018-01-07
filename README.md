@@ -1,7 +1,8 @@
 # Basic-ML
 A basic starter kit into Machine Learning using Python
 
-##DIY##
+## DIY
+
 Download this repo to your local pc or clone it using git
 From your terminal run:
 
@@ -13,7 +14,8 @@ Then `cd` into the folder by
 
 And you're good to go.
 
-##Execution##
+## Execution
+
 To execute the code you'll need Python 3 or later on your machine and a few libraries,
   *TensforFlow, install it by running
     ```pip install tensorflow```
