@@ -18,13 +18,13 @@ And you're good to go.
 
 To execute the code you'll need Python 3 or later on your machine and a few libraries,
   * TensforFlow, install it by running
-    ```pip install tensorflow```
+    ```sudo pip install tensorflow```
   from your terminal.
 
   * SciKitLearn, install it by running
-    ```pip install -U scikit-learn```
+    ```sudo pip install -U scikit-learn```
 
-To learn more about these tools click the links:
+To learn more about these tools click these links:
 [Tensor Flow](https://www.tensorflow.org/) and
 [Scikit Learn](http://scikit-learn.org/stable/index.html)
 
