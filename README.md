@@ -44,5 +44,5 @@ To learn more about these tools click these links:
   To render the tree as a pdf file
   
   You can read more about how we rendder the graph
-  [here]{http://scikit-learn.org/stable/modules/tree.html#tree}
+  [here] {http://scikit-learn.org/stable/modules/tree.html#tree}
 
