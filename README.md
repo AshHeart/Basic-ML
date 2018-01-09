@@ -14,6 +14,12 @@ Then `cd` into the folder by
 
 And you're good to go.
 
+Once you have this repo downloaded just do a
+
+```git pull```
+
+From the repo's directory to get the latest code.
+
 ## Execution
 
 To execute the code you'll need Python 3 or later on your machine and a few libraries,
@@ -43,6 +49,6 @@ To learn more about these tools click these links:
   
   To render the tree as a pdf file
   
-  You can read more about how we rendder the graph
-  [here] {http://scikit-learn.org/stable/modules/tree.html#tree}
+  You can read more about how we render the graph
+  [here](http://scikit-learn.org/stable/modules/tree.html#tree).
 
