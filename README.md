@@ -41,4 +41,5 @@ To learn more about these tools click these links:
  For this one you'll have to install graphviz 
   ```sudo pip install graphviz```
   To render the tree as a pdf file
+  You can read more about how we rendder the graph [here]{http://scikit-learn.org/stable/modules/tree.html#tree}
 
