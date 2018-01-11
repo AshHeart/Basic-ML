@@ -51,12 +51,9 @@ To learn more about these tools click these links:
 
   You can read more about how we render the graph
   [here](http://scikit-learn.org/stable/modules/tree.html#tree).
-<<<<<<< HEAD
-=======
 
 ### Third is selecting_features
   For this one we use matplot lib
   ```sudo pip install matplotlib```
-  
+
   Read about this great tool [here](https://matplotlib.org/)
->>>>>>> 5bce646fb9d8423a90edc1ee34d74edc3234e639
