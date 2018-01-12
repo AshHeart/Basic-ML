@@ -70,3 +70,11 @@ To learn more about these tools click these links:
   Here we use scipy ```sudo pip install scipy```
 
   You can read more about scipy [here](https://www.scipy.org/).
+  
+### For our fifth step we bring you Google's help
+
+   So, here we dive into deep learning and neural networks and use Tensor Flow for Poets.
+   
+   There's no local folder for this one as it's already been done by Google.
+   
+   If you do decide to follow along, Google has nicely presented the steps [here](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/#0).
