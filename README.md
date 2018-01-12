@@ -57,9 +57,16 @@ To learn more about these tools click these links:
   ```sudo pip install matplotlib```
 
   Read about this great tool [here](https://matplotlib.org/).
-  
+
 ### Next is the pipelines folder
   Here we learn to use different classifiers and comapre their results.
-  
+
   Checkout [Tensorflow Playground](http://playground.tensorflow.org/) to really visualize how classifiers work,
   and don't worry, you can't break it.
+
+### We write our own classifier in scrappy_knn
+  This really gets our machine learning into high gear it's all smooh sailing if you can understand this one
+
+  Here we usse scipy ```sudo pip install scipy```
+
+  You can read more about scipy (here)[https://www.scipy.org/]

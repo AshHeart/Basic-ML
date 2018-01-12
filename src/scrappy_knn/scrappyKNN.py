@@ -1,6 +1,7 @@
 '''We're finally getting to write our own verion of the K Nearest Neighbors classifier'''
 from scipy.spatial import distance
 
+#Function to get the euclidean distance between any 2 points
 def euc(a, b):
     return distance.euclidean(a, b)
 
@@ -20,13 +21,14 @@ class scrappyKNN():
 
         return predictions
 
+    #Function to find the neartest neighbor
     def closest(self, row):
         best_dist = euc(row, self.x_train[0])
         best_index = 0
 
         for i in range(1, len(self.x_train)):
             dist = euc(row, self.x_train[i])
-            
+
             if dist < best_dist:
                 best_dist = dist
                 best_index = i
@@ -54,5 +56,4 @@ prediction = clf.predict(x_test)
 
 #Get out new classifiers accuracy score
 from sklearn.metrics import accuracy_score
-print("\n\naccuracy using the k neighbors classifier is", accuracy_score(y_test, prediction))
-
+print("\n\naccuracy using our k neighbors classifier is", accuracy_score(y_test, prediction))
