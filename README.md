@@ -65,8 +65,8 @@ To learn more about these tools click these links:
   and don't worry, you can't break it.
 
 ### We write our own classifier in scrappy_knn
-  This really gets our machine learning into high gear it's all smooh sailing if you can understand this one
+  This really gets our machine learning into high gear, it's all smooh sailing from here on if you can understand this one.
 
-  Here we usse scipy ```sudo pip install scipy```
+  Here we use scipy ```sudo pip install scipy```
 
-  You can read more about scipy (here)[https://www.scipy.org/]
+  You can read more about scipy [here](https://www.scipy.org/).
